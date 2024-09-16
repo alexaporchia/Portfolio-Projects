@@ -1,6 +1,6 @@
 **Alexa Porchia's Data Portfolio**
 
-Welcome and thanks for stopping by! This repository contains examples of SQL I've written for solo projects, with more SQL, Dashboard, and Python projests soon to come. Below you'll find a highlighted project on Hospital Inpatient data, including SQL exploration I performed using PostgreSQL. Feel free to take a look around and reach out if you have any feedback or questions.
+Welcome and thanks for stopping by! This repository contains examples of SQL I've written for solo projects, with more SQL, Dashboard, and Python projects soon to come. Below you'll find a highlighted project on Hospital Inpatient data, including SQL exploration I performed using PostgreSQL. Feel free to take a look around and reach out if you have any feedback or questions.
 
 **Highlighted Projects**
 
