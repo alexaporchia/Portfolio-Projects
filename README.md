@@ -4,5 +4,5 @@ Welcome and thanks for stopping by! This repository contains examples of SQL I'v
 
 **Highlighted Projects**
 
-**Hospital Inpatient Stays (CA & NY 2021) - SQL**: In this project, I used a dataset found on HCUPNET to analyze hospital inpatient ICD code grouping trends in 2021. Using aggregagte hospital charges and number of stays, I examined the cost and count of each ICD code group. I joined data from California and New York to compare the most common and costly diagnoses of 2021.
+**Hospital Inpatient Stays (CA & NY 2021) - SQL**: In this project, I used a dataset found on HCUPNET to analyze DRG (hospital inpatient ICD code grouping) trends in 2021. Using aggregagte hospital charges and number of stays, I examined the cost and count of each DRG. I joined data from California and New York to compare the most common and costly diagnoses/procedures of 2021.
 - Data source: https://datatools.ahrq.gov/hcupnet/
